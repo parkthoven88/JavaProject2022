@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=HyojinParkProj12
+comment1.params=
+comment1.target=Account()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=id\ balance
+comment2.target=Account(int,\ double)
+comment3.params=newBalance
+comment3.target=void\ setBalance(double)
+comment4.params=
+comment4.target=double\ getBalance()
+comment5.params=newId
+comment5.target=void\ setId(int)
+comment6.params=
+comment6.target=double\ getId()
+comment7.params=amount
+comment7.target=void\ deposit(double)
+comment8.params=amount
+comment8.target=void\ withdraw(double)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11
